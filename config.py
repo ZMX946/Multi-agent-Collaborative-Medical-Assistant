@@ -1,5 +1,5 @@
 """
-多代理医疗聊天机器人的配置文件（阿里云 AI Gateway 兼容版本）
+多代理医疗聊天机器人的配置文件
 """
 
 import os
@@ -9,7 +9,7 @@ import openai
 # 加载环境变量
 load_dotenv()
 
-# 配置全局 openai（阿里云 AI Gateway）
+# 配置全局 openai（阿里云 AI）
 openai.api_key = os.getenv("ALIYUN_API_KEY")
 openai.api_base = os.getenv("ALIYUN_API_ENDPOINT")
 # openai.api_version = "2023-07-01-preview"  # 如果阿里云文档要求可打开
