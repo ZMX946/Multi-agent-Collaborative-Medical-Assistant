@@ -20,7 +20,6 @@
 
 ## 📚 目录
 - [概述](#overview)
-- [演示](#demo)
 - [技术流程图](#technical-flowchart)
 - [主要功能](#key-features)
 - [技术栈](#technology-stack)
