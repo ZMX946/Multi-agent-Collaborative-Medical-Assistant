@@ -1,7 +1,3 @@
-<div align="center">
- 
-![logo](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/blob/main/assets/logo_rounded.png)
-
 <h1 align="center"><strong>⚕️ 多智能体医疗助手 :</strong></h1>
 <h6 align="center">基于 AI 的多智能体系统，用于医疗诊断和辅助</h6>
 
@@ -19,13 +15,6 @@
 </div>
 
 ---
-
-> [!IMPORTANT]  
-> 📋 从 v2.0 升级到 v2.1 及以后版本更新：
-> 1. **文档处理升级**：将 Unstructured.io 替换为 Docling，用于解析文档、提取文本、表格和图片进行向量化。
-> 2. **增强的 RAG 引用**：在检索的文档块底部添加源文档链接和参考图片，用于 RAG 响应。  
->
-> 若希望使用基于 Unstructured.io 的解决方案，请参考 v2.0 版本：[v2.0](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/tree/v2.0)。
 
 ---
 
