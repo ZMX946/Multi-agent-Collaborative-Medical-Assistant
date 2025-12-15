@@ -105,7 +105,9 @@ https://cognition.ai/blog/dont-build-multi-agents
 | 🔹 **前端** | HTML, CSS, JavaScript |
 | 🔹 **部署** | Docker, GitHub Actions CI/CD |
 
-![Brain Tumor Segmentation](images/brain_tumor.png)
+![Brain Tumor Segmentation](sample_images/brain_tumor_images/BraTS2021_00111_pred_coronal.png)
+![肺炎检测](sample_images/chest_x-ray_covid_and_normal/COVID-1512_overlay.png)
+![肺炎检测](sample_images/chest_x-ray_covid_and_normal/COVID-1512_pred_mask.png)
 
 ---
 
